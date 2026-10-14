@@ -120,7 +120,7 @@ export default function Home() {
       </header>
 
       <main>
-        <Section id="about" index="01" label="About" title={<>Records, numbers, <em>and service.</em></>}>
+        <Section id="about" index="01" label="About" title={<>Records, Numbers, <em>and Service.</em></>}>
           <div className="about-grid">
             <div className="glass panel prose">
               {profile.about.map((p, i) => (
