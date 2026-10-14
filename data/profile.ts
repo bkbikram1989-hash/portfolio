@@ -31,7 +31,7 @@ export const profile = {
   ],
 
   highlights: [
-    { label: "Experience", value: "9+", text: "years of professional experience" },
+    { label: "Government Experience", value: "9+", text: "years of professional experience" },
     { label: "Lions Clubs International", value: "325 I", text: "District Chairperson, L.Y. 2026/27" },
     { label: "Education", value: "M.Sc.", text: "Mathematics, Tribhuvan University" },
   ],
